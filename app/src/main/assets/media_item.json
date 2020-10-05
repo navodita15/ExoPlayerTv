@@ -1,0 +1,34 @@
+{
+  "MediaItems": [
+    {
+      "Title": "Sample Title 1",
+      "Image": "https://picsum.photos/200/300",
+      "Url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+    },
+    {
+      "Title": "Sample Title 2",
+      "Image": "https://picsum.photos/300/300",
+      "Url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+    },
+    {
+      "Title": "Sample Title 3",
+      "Image": "https://picsum.photos/400/300",
+     "Url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+    },
+    {
+      "Title": "Sample Title 4",
+      "Image": "https://picsum.photos/500/300",
+      "Url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+    },
+    {
+      "Title": "Sample Title 5",
+      "Image": "https://picsum.photos/600/300",
+      "Url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+    },
+    {
+      "Title": "Sample Title 6",
+      "Image": "https://picsum.photos/700/300",
+      "Url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+    }
+  ]
+} 

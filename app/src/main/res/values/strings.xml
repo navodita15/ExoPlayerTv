@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExoplayerTv</string>
+    <string name="video_quality">Video Quality</string>
+    <string name="media_image">media image</string>
+</resources>
